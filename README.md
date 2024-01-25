@@ -4,7 +4,7 @@
 - 💞️ Looking to collaborate on efficient Data Science for Clinical Trials data and Reporting, e.g. CDISC Data , CSR outputs
 - 📫 How to reach me :GITHUB
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sports Enthusiast (Footbal, Soccer, Pickleball, Swimming, Tennis), Love to play Chess
+- ⚡ Fun fact: Sports Enthusiast (Football, Soccer, Pickleball, Swimming, Tennis), Love to play Chess
 
 <!---
 musansereko/musansereko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
